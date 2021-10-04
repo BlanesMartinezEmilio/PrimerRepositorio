@@ -1,0 +1,10 @@
+Para poder usar Git debemos conocer los comandos de Git y para que sirven
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin <direccion_de_repositorio_aqui>
+git push -u origin main
+git remote add origin <direccion_de_repositorio_aqui>
+git branch -M main
+git push -u origin main

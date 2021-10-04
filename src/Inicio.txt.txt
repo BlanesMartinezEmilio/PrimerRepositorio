@@ -1,0 +1,2 @@
+Para empezar a trabajar con Git y Github lo primero es instalar Git y crear una cuenta en Github
+Tras haber hecho esto podemos iniciar git en cualquier archivo que tengamos para poder crear un repositorio en el mismo
